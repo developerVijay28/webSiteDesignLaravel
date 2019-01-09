@@ -17,24 +17,24 @@
                     <img src="images/slider/1.jpg" alt="">
                     <div class="carousel-caption slider-con">
                         <h2>Welcome to <span>ShivJyoti School</span></h2>
-                        <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form</p>
-                        <a href="#" class="bann-btn-1">All Courses</a><a href="#" class="bann-btn-2">Read More</a>
+                        {{-- <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form</p>
+                        <a href="#" class="bann-btn-1">All Courses</a><a href="#" class="bann-btn-2">Read More</a> --}}
                     </div>
                 </div>
                 <div class="item">
                     <img src="images/slider/2.jpg" alt="">
                     <div class="carousel-caption slider-con">
-                        <h2>Admission open <span>2019</span></h2>
+                        {{-- <h2>Admission open <span>2019</span></h2>
                         <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form</p>
-                        <a href="#" class="bann-btn-1">Admission</a><a href="#" class="bann-btn-2">Read More</a>
+                        <a href="#" class="bann-btn-1">Admission</a><a href="#" class="bann-btn-2">Read More</a> --}}
                     </div>
                 </div>
                 <div class="item">
                     <img src="images/slider/3.jpg" alt="">
                     <div class="carousel-caption slider-con">
-                        <h2>Education <span>Master</span></h2>
+                        {{-- <h2>Education <span>Master</span></h2>
                         <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form</p>
-                        <a href="#" class="bann-btn-1">All Courses</a><a href="#" class="bann-btn-2">Read More</a>
+                        <a href="#" class="bann-btn-1">All Courses</a><a href="#" class="bann-btn-2">Read More</a> --}}
                     </div>
                 </div>
             </div>
@@ -154,7 +154,7 @@
     </section>
 
     <!-- POPULAR COURSES -->
-    <section class="pop-cour">
+    {{-- <section class="pop-cour">
         <div class="container com-sp pad-bot-70">
             <div class="row">
                 <div class="con-title">
@@ -333,7 +333,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> --}}
 
     <!-- starting of UPCOMING,job,login page EVENTS -->
     
@@ -344,11 +344,11 @@
             <div class="row">
                 <div class="con-title">
                     <h2>News and <span>Events</span></h2>
-                    <p>Fusce id sem at ligula laoreet hendrerit venenatis sed purus. Ut pellentesque maximus lacus, nec pharetra augue.</p>
+                    <p>Find our Latest News and events Here</p>
                 </div>
             </div>
             <div class="row">
-                <div class="col-md-4">
+                <div class="col-md-6">
                     <div class="bot-gal h-gal ho-event-mob-bot-sp">
                         <h4>Photo Gallery</h4>
                         <ul>
@@ -379,7 +379,7 @@
                         </ul>
                     </div>
                 </div>
-                <div class="col-md-4">
+                {{-- <div class="col-md-4">
                     <div class="bot-gal h-vid ho-event-mob-bot-sp">
                         <h4>Video Gallery</h4>
                         <iframe src="https://www.youtube.com/embed/2WqFtiR4-F4?autoplay=0&showinfo=0&controls=0" allowfullscreen></iframe>
@@ -387,8 +387,8 @@
                         <p>Maecenas finibus neque a tellus auctor mattis. Aliquam tempor varius ornare. Maecenas dignissim leo leo, nec posuere purus finibus vitae.</p>
                         <p>Quisque vitae neque at tellus malesuada convallis. Phasellus in lectus vitae ex euismod interdum non a lorem. Nulla bibendum. Curabitur mi odio, tempus quis risus cursus.</p>
                     </div>
-                </div>
-                <div class="col-md-4">
+                </div> --}}
+                <div class="col-md-6">
                     <div class="bot-gal h-blog ho-event">
                         <h4>News & Event</h4>
                         <div class="ho-event">

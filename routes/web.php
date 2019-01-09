@@ -80,4 +80,20 @@ Route::get('/shivSchoolActities', function(){
 Route::get('/shivSchoolAnnual', function(){
     return view('shivJyoti/schoolTour.annual');
 });
+// admin site
+Route::get('/adminPanel',function(){
+    return view('adminPanel.dashbord');
+});
+Route::get('/adminPost',function(){
+    return view('adminPanel.post');
+});
+Route::get('/adminNews',function(){
+    return view('adminPanel.news');
+});
+Route::get('/adminPhoto',function(){
+    return view('adminPanel.photoadd');
+});
 
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');

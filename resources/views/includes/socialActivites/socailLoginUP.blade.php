@@ -1,4 +1,4 @@
-<section>
+{{-- <section>
         <!-- LOGIN SECTION -->
         <div id="modal1" class="modal fade" role="dialog">
             <div class="log-in-pop">
@@ -148,4 +148,4 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> --}}
